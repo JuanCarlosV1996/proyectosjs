@@ -17,5 +17,6 @@ function agregarCurso(e) {
     if(e.target.classList.contains('agregar-carrito')){
         console.log(e.target)
         console.log("prueba")
+        console.log("prueba 2")
     }
 }
